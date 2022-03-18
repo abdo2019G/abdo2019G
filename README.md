@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently Computer Applications student.
 
 <!--
 **abdo2019G/abdo2019G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
